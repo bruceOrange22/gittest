@@ -65133,9 +65133,7 @@ const LV_ATTRIBUTE_MEM_ALIGN LV_ATTRIBUTE_LARGE_CONST LV_ATTRIBUTE_IMG_SAD uint8
 };
 
 const lv_img_dsc_t sad = {
-  .header.cf = LV_IMG_CF_RAW_CHROMA_KEYED,
-  .header.always_zero = 0,
-  .header.reserved = 0,
+.header.cf = LV_COLOR_FORMAT_RAW,
   .header.w = 240,
   .header.h = 240,
   .data_size = 846395,
