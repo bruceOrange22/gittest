@@ -8,9 +8,9 @@ dependencies:
 
 version: "1.0.2"
 description: "Otto机器人GIF表情资源包 - 包含6个动态表情GIF"
-repository: "https://github.com/txp666/otto-emoji-gif-component"
+repository: "https://github.com/bruceOrange22/gittest"
 license: "MIT"
-url: "https://github.com/txp666/otto-emoji-gif-component"
+url: "https://github.com/bruceOrange22/gittest"
 
 targets:
   - esp32s3
