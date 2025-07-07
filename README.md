@@ -1,7 +1,11 @@
 > 原项目来源于：https://github.com/txp666/otto-emoji-gif-component
+
 # Otto 机器人 GIF 表情组件
-> dev 
-Otto Robot Emoji GIF Component for ESP-IDF
+
+> dev
+>
+>
+> Otto Robot Emoji GIF Component for ESP-IDF
 
 ## 概述
 
@@ -9,8 +13,8 @@ Otto Robot Emoji GIF Component for ESP-IDF
 
 ## 支持的表情
 
-| 表情名称      | 描述              | 用途                     |
-| ------------- | ----------------- | ------------------------ |
+| 表情名称        | 描述              | 用途                     |
+| --------------- | ----------------- | ------------------------ |
 | `staticstate` | 静态状态/中性表情 | 默认表情，表示平静状态   |
 | `sad`         | 悲伤表情          | 表示难过、沮丧等负面情绪 |
 | `happy`       | 开心表情          | 表示高兴、愉快等正面情绪 |
