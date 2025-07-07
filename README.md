@@ -1,6 +1,6 @@
 > 原项目来源于：https://github.com/txp666/otto-emoji-gif-component
 # Otto 机器人 GIF 表情组件
-
+> dev 
 Otto Robot Emoji GIF Component for ESP-IDF
 
 ## 概述
